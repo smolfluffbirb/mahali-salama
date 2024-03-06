@@ -9,7 +9,7 @@
   <div id="game-container">
     <p id="story">As you wander the vast expanse of these savannahs, forests, and jungles, you come across a particularly green part of the savannah. In the distance you see a jungle bursting out of the ground, you can't see anything past the trees. but you see another lion a short distance away. you seem to spot each other at the same time, and the other lion pauses. from a distance, it looks like a beautiful lioness. What will you do?</p>
     <div id="choices">
-      <a href="confidence.html">Confidence!</a>
+      <a href="confidence">Confidence!</a>
       <a href="outcome1.html">Appear non-threatening</a>
       <a href="outcome1.html">Growl</a>
     </div>
