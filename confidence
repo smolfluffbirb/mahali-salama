@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Confidence!</title>
+</head>
+<body>
+  <div id="game-container">
+    <p id="story">You puff up your chest and raise your head, really showing off the majesticness of your fur. Is that even a word? Either way, the lion seems amused or interested, you can't really tell. they trot up to you, looking a bit larger than they did at a distance. you prepare to strut your stuff and seem all impressive. but then they speak. "As impressive as you are," HE said in a deeper voice than any lioness you had ever heard of. it's hard to hold back the shock or confusion on your face. "I dont think you'd be very interested in me."</p>
+    <div id="choices">
+      <a href="final.html">Flirt</a>
+      <a href="final.html">Where's your mane?</a>
+      <a href="final.html">Frustration</a>
+    </div>
+  </div>
+</body>
+</html>
